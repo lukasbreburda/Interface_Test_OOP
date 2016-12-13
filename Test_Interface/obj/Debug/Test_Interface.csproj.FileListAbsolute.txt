@@ -1,0 +1,6 @@
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Test_Interface\Test_Interface\bin\Debug\Test_Interface.exe.config
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Test_Interface\Test_Interface\bin\Debug\Test_Interface.exe
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Test_Interface\Test_Interface\bin\Debug\Test_Interface.pdb
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Test_Interface\Test_Interface\obj\Debug\Test_Interface.csprojResolveAssemblyReference.cache
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Test_Interface\Test_Interface\obj\Debug\Test_Interface.exe
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Test_Interface\Test_Interface\obj\Debug\Test_Interface.pdb
